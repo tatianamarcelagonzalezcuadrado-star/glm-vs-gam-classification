@@ -1,0 +1,327 @@
+@misc{OPS2023,
+  author       = {{Organización Panamericana de la Salud}},
+  title        = {Discapacidad},
+  year         = {2023},
+  howpublished = {Disponible en línea},
+  url          = {https://www.paho.org/es/temas/discapacidad},
+  urldate      = {2026-01-01}
+}
+
+@report{OMS2011,
+  author      = {{Organización Mundial de la Salud} and {Banco Mundial}},
+  title       = {Informe mundial sobre la discapacidad},
+  year        = {2011},
+  institution = {Organización Mundial de la Salud},
+  url         = {https://www.who.int/es/publications/i/item/9789241564182},
+  urldate = {01-01-2026}
+}
+
+@article{RL,
+  author  = {Martínez Pérez, J. and Pérez Martín, P.},
+  title   = {Regresión logística},
+  journal = {Medicina de Familia. SEMERGEN},
+  year    = {2024},
+  volume  = {50},
+  number  = {1},
+  pages   = {123--135},
+  doi     = {10.1016/j.semerg.2023.102086}
+}
+
+@thesis{GAMbarreto,
+  author      = {Aguilar Barreiro, Pablo},
+  title       = {Modelos aditivos generalizados},
+  type        = {Trabajo de grado},
+  institution = {Universidad de Sevilla},
+  year        = {2019},
+  address     = {España}
+}
+
+@article{desbalanceo,
+  author  = {Muchlinski, David and Siroky, David S. and He, Jingrui and Kocher, Matthew},
+  title   = {Comparación de bosques aleatorios y regresión logística para predecir datos desbalanceados: aplicación al inicio de la guerra civil},
+  journal = {Political Analysis},
+  year    = {2016},
+  volume  = {24},
+  number  = {1},
+  pages   = {87--103},
+  doi     = {10.1093/pan/mpv024}
+}
+
+@book{Agresti,
+  author    = {Agresti, Alan},
+  title     = {Categorical Data Analysis},
+  year      = {2002},
+  edition   = {2},
+  publisher = {John Wiley \& Sons},
+  address   = {Hoboken, NJ}
+}
+
+@book{McCullaghNelder1989,
+  author    = {McCullagh, Peter and Nelder, John A.},
+  title     = {Generalized Linear Models},
+  year      = {1989},
+  edition   = {2},
+  publisher = {Chapman \& Hall},
+  address   = {London}
+}
+
+@book{HastieTibshirani1990,
+  author    = {Hastie, Trevor and Tibshirani, Robert},
+  title     = {Generalized Additive Models},
+  year      = {1990},
+  publisher = {Chapman \& Hall},
+  address   = {London}
+}
+
+@book{GAM,
+  author    = {Dobson, Annette J.},
+  title     = {An Introduction to Generalized Linear Models},
+  year      = {2002},
+  publisher = {Chapman \& Hall/CRC},
+  address   = {Boca Raton}
+}
+
+@article{Comparacion,
+  author  = {Chiabudini, Marco and Schumacher, Martin and Graf, Erika},
+  title   = {Comparison of complex modeling strategies for prediction of a binary outcome based on a few highly correlated predictors},
+  journal = {Biometrical Journal},
+  year    = {2020},
+  volume  = {62},
+  number  = {3},
+  pages   = {568--582},
+  doi     = {10.1002/bimj.201800243}
+}
+
+@article{modeloaditivogeneralizado,
+  author  = {Cho, Sun Joo and Brown-Schmidt, Sarah and De Boeck, Paul and Naveiras, Matthew},
+  title   = {Space-time modeling of intensive binary time series eye-tracking data using a generalized additive logistic regression model},
+  journal = {Psychological Methods},
+  year    = {2022},
+  volume  = {27},
+  number  = {3},
+  pages   = {307--346},
+  doi     = {10.1037/met0000444}
+}
+
+@article{GAMalzaimer,
+  author  = {Muchlinski, David and Siroky, David S. and He, Jingrui and Kocher, Matthew},
+  title   = {Statistical methodology for multiclass classifications: applications to dementia},
+  journal = {Journal of Alzheimer's Disease},
+  year    = {2019},
+  volume  = {68},
+  number  = {1},
+  pages   = {173--186},
+  doi     = {10.3233/JAD-180580}
+}
+
+@article{obesidad,
+  author  = {Awe, Olushina Olawale and Olaniyan, Olawale Abiodun and Olatunde, Ayorinde Emmanuel and Sewpaul, Ronel and Dukhi, Natisha},
+  title   = {A comparative analysis of generalized additive models for obesity risk prediction},
+  journal = {Healthcare Analytics},
+  year    = {2025},
+  volume  = {8},
+  number  = {1},
+  doi     = {10.1016/j.health.2025.100410}
+}
+
+@article{seguimiento,
+  author  = {Yeganeh, Ali and Johannssen, Arne and Chukhrova, Nataliya and Erfanian, Mahdiyeh and Azarpazhooh, Mahmoud Reza and Morovatdar, Negar},
+  title   = {Un marco de seguimiento de los procesos de atención sanitaria mediante modelos aditivos generalizados y autoencoders},
+  journal = {Artificial Intelligence in Medicine},
+  year    = {2023},
+  volume  = {146},
+  number  = {1},
+  doi     = {10.1016/j.artmed.2023.102689}
+}
+
+@article{cmodelos,
+  author  = {Austin, Peter C. and Lee, Jack V. and Douglas, S.},
+  title   = {Logistic regression had superior performance compared with regression trees for predicting in-hospital mortality in patients hospitalized with heart failure},
+  journal = {Journal of Clinical Epidemiology},
+  year    = {2010},
+  volume  = {63},
+  number  = {10},
+  pages   = {1145--1155},
+  doi     = {10.1016/j.jclinepi.2009.12.004}
+}
+
+
+@article{tendencias,
+  author  = {Ganev, K.},
+  title   = {Long-term trends of symptoms and disability in schizophrenia and related disorders},
+  journal = {Social Psychiatry and Psychiatric Epidemiology},
+  year    = {2000},
+  volume  = {35},
+  number  = {9},
+  pages   = {389--395},
+  url     = {https://www.proquest.com/scholarly-journals/long-term-trends-symptoms-disability/docview/236127293/se-2}
+}
+
+
+@article{SABEcolombia,
+  author  = {Gómez, Fernando and Osorio García, David and Panesso, Luisa and Curcio, Carmen Lucía},
+  title   = {Determinantes del envejecimiento saludable y la discapacidad en adultos mayores: SABE Colombia},
+  journal = {Revista Panamericana de Salud Pública},
+  year    = {2021},
+  volume  = {45},
+  number  = {1},
+  pages   = {45--98},
+  doi     = {10.26633/RPSP.2021.98}
+}
+
+@article{SalazarVelezSalazar2012,
+  author  = {Salazar, Diego Alejandro and Vélez, Jorge Iván and Salazar, Juan Carlos},
+  title   = {Comparison between SVM and logistic regression: which one is better to discriminate?},
+  journal = {Revista Colombiana de Estadística},
+  year    = {2012},
+  volume  = {35},
+  number  = {2},
+  pages   = {223--237},
+  url     = {http://www.redalyc.org/articulo.oa?id=89923144003}
+}
+
+@article{AntonioMartinez2025,
+  author  = {López, Antonio José Martínez},
+  title   = {Epidemiología y factores asociados en personas con discapacidad de origen vial en Medellín (2004--2017)},
+  journal = {Revista Salud UIS},
+  year    = {2022},
+  volume  = {54},
+  number  = {1},
+  pages   = {e22033},
+  doi     = {10.18273/saluduis.54.e22033}
+}
+
+@article{cancermama,
+  author  = {Amedenu, Bosson Senyefia and Ayitey, Emmanuel and Ayiah Mensah, Francis and Asare, Luyton},
+  title   = {Evaluating key predictors of breast cancer through survival: a comparison of AFT frailty models with LASSO, ridge, and elastic net regularization},
+  journal = {BMC Cancer},
+  year    = {2025},
+  volume  = {25},
+  number  = {1},
+  pages   = {665},
+  doi     = {10.1186/s12885-025-14040-z}
+}
+
+@book{montgomery2002regresion,
+  author    = {Montgomery, Douglas C. and Peck, Elizabeth A. and Vining, G. Geoffrey},
+  title     = {Introducción al análisis de regresión lineal},
+  year      = {2002},
+  edition   = {3},
+  publisher = {Compañía Editorial Continental (CECSA)},
+  address   = {México, D. F.},
+  isbn      = {9789702403272},
+  doi       = {10.1002/9781118625590},
+  note      = {Traducción de: Introduction to Linear Regression Analysis}
+}
+
+@book{Giolo,
+  author    = {Giolo, Suely Ruiz},
+  title     = {Introdução à análise de dados categóricos com aplicações},
+  year      = {2017},
+  publisher = {Edgard Blücher Ltda},
+  address   = {São Paulo},
+  edition   = {4}
+}
+
+@thesis{unam_regresion_logistica,
+  author      = {Saavedra, Sergio Guillermo Franco},
+  title       = {Modelos de regresión logística aplicados al estudio de transmisión genética},
+  type        = {Tesis de pregrado},
+  institution = {Universidad Nacional Autónoma de México},
+  year        = {2017},
+  address     = {Ciudad de México, México},
+  url         = {https://ru.dgb.unam.mx/server/api/core/bitstreams/f36a915e-3434-471d-9742-360ed3993e9f/content},
+  urldate     = {2026-01-01}
+}
+
+@article{medica,
+  author  = {Amedenu, Bosson Senyefia and Ayitey, Emmanuel and Ayiah Mensah, Francis and Asare, Luyton},
+  title   = {ROC-ing along: Evaluation and interpretation of receiver operating characteristic curves},
+  journal = {Surgery},
+  year    = {2016},
+  volume  = {159},
+  number  = {6},
+  pages   = {1638--1645},
+  doi     = {10.1016/j.surg.2015.12.029}
+}
+
+@article{FLOODPAGE2024108373,
+  author  = {Flood-Page, Guillaume and Boutonnier, Luc and Pereira, Jean-Michel},
+  title   = {Application of the Akaike Information Criterion to the interpretation of bender element tests},
+  journal = {Soil Dynamics and Earthquake Engineering},
+  year    = {2024},
+  volume  = {177},
+  pages   = {108373},
+  issn    = {0267-7261},
+  doi     = {10.1016/j.soildyn.2023.108373},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0267726123006188}
+}
+
+@article{ACC,
+  author  = {Badii, M. H. and Castillo, J. and Cortez, A. and Wong, K. and Villalpando, P.},
+  title   = {Canonical correlation analysis and scientific research},
+  journal = {Universidad Autónoma de Nuevo León (UANL)},
+  year    = {2017},
+  volume  = {2},
+  pages   = {405--422},
+  issn    = {1665-9627}
+}
+
+@misc{dane_grupos_edad,
+  author       = {{Departamento Administrativo Nacional de Estadística (DANE)}},
+  title        = {Distribución de la población por grupos de edad},
+  year         = {s. f.},
+  url          = {https://geoportal.dane.gov.co/servicios/atlas-estadistico/src/Tomo_I_Demografico/3.2.-distribucion-de-la-poblacion-por-grupos-de-edad.html},
+  urldate      = {2026-06-05}
+}
+
+@misc{OMS_IMC,
+  author       = {{Organización Mundial de la Salud}},
+  title        = {Índice de masa corporal (IMC)},
+  year         = {2024},
+  url          = {https://www.who.int/es},
+  urldate      = {2026-06-05}
+}
+
+@article{score,
+  author  = {Woo, Mi-Ja and Reiter, Jerome P. and Karr, Alan F.},
+  title   = {Estimation of propensity scores using generalized additive models},
+  journal = {Statistics in Medicine},
+  year    = {2008},
+  volume  = {27},
+  number  = {19},
+  pages   = {3805--3816},
+  doi     = {10.1002/sim.3278}
+}
+
+@article{SHIRDEL2026123540,
+title = {A framework for binary classification evaluation metrics},
+journal = {Information Sciences},
+volume = {749},
+pages = {123540},
+year = {2026},
+issn = {0020-0255},
+doi = {https://doi.org/10.1016/j.ins.2026.123540},
+url = {https://www.sciencedirect.com/science/article/pii/S0020025526004718},
+author = {Mohammad Shirdel and Mario {Di Mauro} and Antonio Liotta},
+keywords = {Binary classification, Evaluation metrics},
+abstract = {This paper presents a novel framework for analyzing and designing evaluation metrics in binary classification tasks. Traditional metrics—such as Accuracy, Precision, Recall, F1-score, and Cohen’s κ—often embed implicit assumptions about the relative costs and benefits of correct and incorrect predictions. However, these assumptions are not always transparent and may not align with domain-specific cost–benefit structures. By systematically evaluating classifiers through an underlying reward matrix, the proposed framework reveals that each metric reduces to a single break-even ratio between the resources invested and the value gained. This connects classical confusion matrix based metrics to an explicit cost–benefit interpretation. We derive this ratio explicitly for several widely used confusion matrix based metrics, thereby making their implicit trade-offs directly comparable under a unified interpretation. The paper demonstrates how metric values can be interpreted and applied to comprehensively assess classifier performance. Additionally, the framework allows researchers to define new metrics tailored to specific problem requirements. Experiments with commonly used metrics illustrate the framework’s broad applicability and highlight the value of explicitly modeling both costs and benefits for more context-sensitive performance evaluation.}
+}
+
+@online{datosabiertos,
+  author    = {{E.S.E. Subred Integrada de Servicios de Salud Norte, Bogotá D.C.}},
+  title     = {Datos Abiertos Colombia},
+  year      = {2024},
+  url       = {https://www.datos.gov.co/Salud-y-Protecci-n-Social/Enfermedades-Cr-nicas/2uxx-gxp3/about_data},
+  urldate   = {2026-06-03}
+}
+
+@book{wood2017gam,
+  author    = {Wood, Simon N.},
+  title     = {Generalized Additive Models: An Introduction with R},
+  year      = {2017},
+  edition   = {2},
+  publisher = {Chapman and Hall/CRC},
+  address   = {Boca Raton},
+  doi       = {10.1201/9781315370279}
+}
