@@ -1,4 +1,3 @@
-# TITTLE
 # Comparison Between Logistic Regression and Generalized Additive Models for Binary Classification with Imbalanced Data and Nonlinear Predictors
 
 ## 📖 Project Description
